@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 	<h3>💻 Tech Stack 💻</h3>
-	<p>✌️ Platforms & Languages ✌️</p>
+	<p> Platforms & Languages </p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -27,7 +27,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠️ Tools 🛠️</p>
+	<p>Tools</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
