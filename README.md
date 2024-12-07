@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /><br>
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white" />
-	<img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=AWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=AWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 	
 	
